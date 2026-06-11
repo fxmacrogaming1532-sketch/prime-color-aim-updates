@@ -1,10 +1,13 @@
 {
-  "version": "1.0",
-  "mandatory": true,
-  "downloadUrl": "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/v1.0/PrimeColorAim-1.0.zip",
-  "sha256": "BEAFB9479BD659310F1DFD7E531DEFAAFA0B3100D8847A8315D89C3BA7828CA4",
-  "executableName": "PRIME AIM AHK.exe",
-  "notes": [
-    "Prime Color Aim com launcher embutido"
-  ]
+    "version":  "1.0.2",
+    "mandatory":  true,
+    "downloadUrl":  "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/v1.0.2/PrimeColorAim-1.0.2.zip",
+    "sha256":  "AF50B75099026D2823F7B42B3DFF1ED38201997927E008FAB9AACBF88D7E9284",
+    "executableName":  "PRIME AIM AHK.exe",
+    "requiresNetReactor":  true,
+    "notes":  [
+                  "Start do script corrigido com fallback seguro do runtime embutido",
+                  "Status volta para idle se o AutoHotkey recusar a inicializacao",
+                  "Versao do app sincronizada com o manifest"
+              ]
 }
