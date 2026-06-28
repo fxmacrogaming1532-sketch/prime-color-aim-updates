@@ -1,13 +1,13 @@
 {
-    "version":  "1.1.9",
+    "version":  "1.2.0",
     "mandatory":  true,
-    "downloadUrl":  "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/v1.1.9/PrimeColorAim-1.1.9.zip",
-    "sha256":  "582F4EC990D7C9DFFC0E87F425BF85FF66C4AED6A5E86A930B1BD343B16DD001",
+    "downloadUrl":  "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/v1.2.0/PrimeColorAim-1.2.0.zip",
+    "sha256":  "E872141E3A56575B28AEAFD1E555BAC79A9FA7448DA9AE68F73F86C11CCE751B",
     "executableName":  "Prime Color Aim.exe",
-    "requiresNetReactor":  false,
+    "requiresNetReactor":  true,
     "notes":  [
-                  "Protecao reforcada com Native EXE File/CoreBundle",
-                  "Pacote preparado para transicao segura dos clientes 1.1.8",
+                  "Apphost self-contained com DLL principal protegida e oculta",
+                  "Pacote preparado para transicao segura dos clientes 1.1.x",
                   "Versao do app sincronizada com o manifest"
               ]
 }
