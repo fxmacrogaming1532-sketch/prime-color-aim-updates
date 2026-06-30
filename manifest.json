@@ -1,8 +1,8 @@
 {
-    "version":  "1.2.2",
+    "version":  "1.2.3",
     "mandatory":  true,
-    "downloadUrl":  "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/v1.2.2/PrimeColorAim-1.2.2.zip",
-    "sha256":  "9377F5BC93CC9072E514DEE4B88FF2DC30525E9FEFA06B7F32E034EAAA59108F",
+    "downloadUrl":  "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/v1.2.3/PrimeColorAim-1.2.3.zip",
+    "sha256":  "0DF6699FCE737AA54D670AB5D945CEF7AED207002504DF047891EED1E1440E0F",
     "executableName":  "Prime Color Aim.exe",
     "requiresNetReactor":  true,
     "notes":  [
