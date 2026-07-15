@@ -1,15 +1,15 @@
 {
-    "version":  "1.3.9",
+    "version":  "1.4.0",
     "mandatory":  true,
-    "downloadUrl":  "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/v1.3.9/PrimeColorAim-1.3.9.zip",
-    "sha256":  "2368873D086B1431881408CC546261E79FE1ED7069EE77341AC12D7EC927CE3E",
+    "downloadUrl":  "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/v1.4.0/PrimeColorAim-1.4.0.zip",
+    "sha256":  "465D187188FC0FB9777B4F32D246EEB9EE9B2C83FECA3CA3DB80871EB6543B23",
     "executableName":  "Prime Color Aim.exe",
     "requiresNetReactor":  true,
     "notes":  [
-                  "Novo seletor de idioma com bandeiras do Brasil, Estados Unidos e Espanha",
-                  "Interface, mensagens, ajuda e tooltips traduzidos para portugues, ingles e espanhol",
-                  "Idioma escolhido salvo automaticamente entre as sessoes",
-                  "Detector de triangulos em C# e ponte de visao removidos; logica do aim permanece no AHK embutido",
-                  "Seletor alinhado aos controles da janela e versao sincronizada como 1.3.9"
+                  "Preferencias da interface agora ficam salvas corretamente entre reinicializacoes",
+                  "Tempo em segundos e voz do assistente corrigidos",
+                  "Modo compacto, idioma e cor do tema agora sao persistidos no config.ini",
+                  "Tema deixou de ser redefinido ao abrir o aplicativo",
+                  "Versao sincronizada como 1.4.0"
               ]
 }
