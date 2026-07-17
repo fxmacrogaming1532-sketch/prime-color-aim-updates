@@ -1,15 +1,15 @@
 {
-    "version":  "1.4.0",
+    "version":  "1.4.1",
     "mandatory":  true,
-    "downloadUrl":  "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/v1.4.0/PrimeColorAim-1.4.0.zip",
-    "sha256":  "465D187188FC0FB9777B4F32D246EEB9EE9B2C83FECA3CA3DB80871EB6543B23",
+    "downloadUrl":  "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/v1.4.1/PrimeColorAim-1.4.1.zip",
+    "sha256":  "DD0A87CCEF5A12A091C0AC1EE15263F8B0010882C2B36E18A9AAED060C4DD287",
     "executableName":  "Prime Color Aim.exe",
     "requiresNetReactor":  true,
     "notes":  [
-                  "Preferencias da interface agora ficam salvas corretamente entre reinicializacoes",
-                  "Tempo em segundos e voz do assistente corrigidos",
-                  "Modo compacto, idioma e cor do tema agora sao persistidos no config.ini",
-                  "Tema deixou de ser redefinido ao abrir o aplicativo",
-                  "Versao sincronizada como 1.4.0"
+                  "Nova aba Tutoriais com quatro videos oficiais do Prime Color Aim",
+                  "Capas do YouTube, busca, filtros e player interno",
+                  "Tutoriais de primeiros passos, tolerancia, sensibilidade e FOV",
+                  "Preview do FOV estabilizado para eliminar piscadas durante o ajuste",
+                  "Versao sincronizada como 1.4.1"
               ]
 }
