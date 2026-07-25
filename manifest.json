@@ -13,18 +13,3 @@
                   "Titulos de navegador nao liberam mais o color"
               ]
 }
-﻿{
-    "version":  "1.4.2",
-    "mandatory":  true,
-    "downloadUrl":  "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/v1.4.2/PrimeColorAim-1.4.2.zip",
-    "sha256":  "F826A17FF5FE647702EBD9FA4DBB1BB8276E6655EA71E3667CB3C470AEE51B7B",
-    "executableName":  "Prime Color Aim.exe",
-    "requiresNetReactor":  true,
-    "notes":  [
-                  "Correcao obrigatoria da edicao basica",
-                  "Compatibilidade novamente restrita ao Blood Strike",
-                  "Tela pos-login para abrir o Blood Strike sem herdar administrador",
-                  "Color desligado quando o Blood Strike fecha ou perde o foco",
-                  "Esta atualizacao nao contem recursos da edicao Diretor"
-              ]
-}
