@@ -1,15 +1,17 @@
 {
-    "version":  "1.4.5",
+    "version":  "1.4.6",
     "mandatory":  true,
-    "downloadUrl":  "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/v1.4.5/PrimeColorAim-1.4.5.zip",
-    "sha256":  "90467498876ECECD27A99CDA4FC17DCAA9F41728FFE73FCF9D77D4053A90C6BE",
+    "downloadUrl":  "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/v1.4.6/PrimeColorAim-1.4.6.zip",
+    "sha256":  "998A937A58FD4F6B3FFBBB91293527024DBECC62C5713522BF183829A5C644FD",
     "executableName":  "Prime Color Aim.exe",
     "requiresNetReactor":  true,
     "notes":  [
-                  "Puxada restaurada em alta frequencia",
-                  "Centralizacao horizontal movida para PixelSearch nativo",
-                  "Movimentos subpixel acumulados para reduzir saltos",
-                  "Protecao e travas de estabilidade validadas",
-                  "Versao sincronizada como 1.4.5"
+                  "Puxada mais suave com limite proporcional a sensibilidade",
+                  "Filtro de continuidade contra saltos para pixels errados",
+                  "Movimento relativo migrado para a API moderna SendInput",
+                  "Runtime isolado como SystemHelper.exe",
+                  "Captura de teclado e mouse sem hooks globais",
+                  "Travas do Blood Strike e protecao do pacote validadas",
+                  "Versao sincronizada como 1.4.6"
               ]
 }
