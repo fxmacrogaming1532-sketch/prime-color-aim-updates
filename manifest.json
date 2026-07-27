@@ -1,15 +1,14 @@
-﻿{
-    "version":  "1.4.3",
+{
+    "version":  "1.4.2",
     "mandatory":  true,
-    "downloadUrl":  "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/v1.4.3/PrimeColorAim-1.4.3.zip",
-    "sha256":  "432B315C49C423946EB5ACB0442680CEFEE2CD524865FB6DF51C1169DE0770C1",
+    "downloadUrl":  "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/v1.4.2/PrimeColorAim-1.4.2.zip",
+    "sha256":  "C2BF4127DA02984FC375B3285ED6ED50BD7193CEFF94CF1BCE6409D86E3E2B96",
     "executableName":  "Prime Color Aim.exe",
     "requiresNetReactor":  true,
     "notes":  [
-                  "Correcao obrigatoria da tela pos-login",
-                  "Botao Abrir Blood Strike restaurado apos cada login",
-                  "Abertura do jogo sem herdar administrador preservada",
-                  "Deteccao corrigida para validar o processo real do Blood Strike",
-                  "Titulos de navegador nao liberam mais o color"
+                  "Mira por cor centralizada no agrupamento detectado",
+                  "Origem horizontal sincronizada com o centro do FOV",
+                  "Protecao e travas de estabilidade validadas",
+                  "Versao sincronizada como 1.4.2"
               ]
 }
