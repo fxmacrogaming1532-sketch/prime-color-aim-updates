@@ -1,14 +1,15 @@
 {
-    "version":  "1.4.4",
+    "version":  "1.4.5",
     "mandatory":  true,
-    "downloadUrl":  "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/v1.4.4/PrimeColorAim-1.4.4.zip",
-    "sha256":  "4831E0CEF04E3F1A946BC218B3FBA2EF566D46AFB0B2210ACCBF89FB78F466AF",
+    "downloadUrl":  "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/v1.4.5/PrimeColorAim-1.4.5.zip",
+    "sha256":  "90467498876ECECD27A99CDA4FC17DCAA9F41728FFE73FCF9D77D4053A90C6BE",
     "executableName":  "Prime Color Aim.exe",
     "requiresNetReactor":  true,
     "notes":  [
-                  "Mira por cor centralizada no agrupamento detectado",
-                  "Origem horizontal sincronizada com o centro do FOV",
+                  "Puxada restaurada em alta frequencia",
+                  "Centralizacao horizontal movida para PixelSearch nativo",
+                  "Movimentos subpixel acumulados para reduzir saltos",
                   "Protecao e travas de estabilidade validadas",
-                  "Versao sincronizada como 1.4.4"
+                  "Versao sincronizada como 1.4.5"
               ]
 }
