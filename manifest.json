@@ -1,17 +1,14 @@
 {
-    "version":  "1.4.6",
+    "version":  "1.4.8",
     "mandatory":  true,
-    "downloadUrl":  "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/v1.4.6/PrimeColorAim-1.4.6.zip",
-    "sha256":  "998A937A58FD4F6B3FFBBB91293527024DBECC62C5713522BF183829A5C644FD",
+    "downloadUrl":  "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/v1.4.8/PrimeColorAim-1.4.8.zip",
+    "sha256":  "3657E85BA362819317AD6E4601A130950C7CAF66576C2C12A36BC95E96256E83",
     "executableName":  "Prime Color Aim.exe",
-    "requiresNetReactor":  true,
+    "requiresNetReactor":  false,
     "notes":  [
-                  "Puxada mais suave com limite proporcional a sensibilidade",
-                  "Filtro de continuidade contra saltos para pixels errados",
-                  "Movimento relativo migrado para a API moderna SendInput",
-                  "Runtime isolado como SystemHelper.exe",
-                  "Captura de teclado e mouse sem hooks globais",
-                  "Travas do Blood Strike e protecao do pacote validadas",
-                  "Versao sincronizada como 1.4.6"
+                  "Migracao obrigatoria do app AHK para o painel integrado ao OBS.",
+                  "Instalacao automatica do OBS Studio oficial quando necessario.",
+                  "Prime Color Aim 1.4.8 instalado dentro do processo do OBS.",
+                  "Arquivos tecnicos ocultos e atalho Prime Color Aim - OBS criado."
               ]
 }
