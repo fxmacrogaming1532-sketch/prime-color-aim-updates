@@ -1,9 +1,12 @@
 {
-    "version":  "1.4.8-obs.20-native",
+    "version":  "1.4.8-obs.21-native",
     "mandatory":  false,
     "downloadUrl":  "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/obs-v1.4.8/PrimeColorAim-OBS-1.4.8.zip",
-    "sha256":  "244B5129BCFD6907125AEE8C240EB24F5302AD8A05E0DF2CA2FB157A1A9152CA",
+    "sha256":  "CD75E966CE8BB1BECEB0CEE6F1325E9BE580143BB9E9B4E6BFEA08A845F78531",
     "notes":  [
+                  "Motor de captura migrado de GDI/BitBlt para leitura da OBS Virtual Camera via Media Foundation.",
+                  "Scanner continua usando a cor configurada em tempo real sobre o frame pre-filtrado do OBS.",
+                  "Se a OBS Virtual Camera estiver desligada, o motor registra erro e nao injeta movimento.",
                   "Defaults iniciais ajustados para a config fornecida na primeira instalacao, sem sobrescrever perfis salvos.",
                   "Hotkey pronta imediatamente depois do login, sem precisar redefinir a tecla ou apertar Iniciar.",
                   "Trava de pouso impede a mira de percorrer o contorno do alvo ao alcancar o Hitmark central.",
