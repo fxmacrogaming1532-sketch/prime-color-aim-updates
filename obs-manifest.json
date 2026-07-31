@@ -1,8 +1,8 @@
 {
-    "version":  "1.5.1-obs.1-native",
+    "version":  "1.5.2-obs.1-native",
     "mandatory":  false,
-    "downloadUrl":  "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/obs-v1.5.1/PrimeColorAim-OBS-1.5.1.zip",
-    "sha256":  "FDD0B4DB222932CCF8C69F9E83A8A4DCE912204F2F5C40A96CCC0F9184F9A44B",
+    "downloadUrl":  "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/obs-v1.5.2/PrimeColorAim-OBS-1.5.2.zip",
+    "sha256":  "81B680EA877F1BDB61D6FBC95CC09E6EBDDF5E8D3B50A3047BAD29517292B88C",
     "notes":  [
                   "Motor de captura migrado de GDI/BitBlt para leitura da OBS Virtual Camera via Media Foundation.",
                   "Scanner continua usando a cor configurada em tempo real sobre o frame pre-filtrado do OBS.",
@@ -11,6 +11,8 @@
                   "Hotkey pronta imediatamente depois do login, sem precisar redefinir a tecla ou apertar Iniciar.",
                   "Trava de pouso impede a mira de percorrer o contorno do alvo ao alcancar o Hitmark central.",
                   "Sincronizacao dos botoes Iniciar e Parar com a hotkey.",
+                  "Ao ligar o Color pelo botao Iniciar ou pela hotkey, a OBS Virtual Camera e iniciada automaticamente.",
+                  "Ao pausar o Color, o plugin encerra somente a camera virtual que ele proprio iniciou.",
                   "Atualizador agora solicita administrador antes de gravar no OBS em Program Files.",
                   "Instalacao automatica do plugin, WebView2 e interface HTML."
               ]
