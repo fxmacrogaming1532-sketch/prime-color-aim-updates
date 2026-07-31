@@ -1,20 +1,13 @@
 {
-    "version":  "1.5.4-obs.1-native",
+    "version":  "1.5.5-obs.1-native",
     "mandatory":  false,
-    "downloadUrl":  "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/obs-v1.5.4/PrimeColorAim-OBS-1.5.4.zip",
-    "sha256":  "56F99AFFB13E9871ACC32949052C014B651DA87497263D0587DD31AA139E17AA",
+    "downloadUrl":  "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/obs-v1.5.5/PrimeColorAim-OBS-1.5.5.zip",
+    "sha256":  "F6C222915689BB5C67B9BC61B5C239930A80478F682E683FB99F68E4EAE2D9B3",
     "notes":  [
-                  "Captura da OBS Virtual Camera corrigida com DirectShow, inclusive dentro do processo do OBS.",
-                  "Frames da camera sao convertidos para RGB32 antes do scanner procurar a cor do alvo.",
-                  "Scanner continua usando a cor configurada em tempo real sobre o frame pre-filtrado do OBS.",
-                  "Se a OBS Virtual Camera estiver desligada, o motor registra erro e nao injeta movimento.",
-                  "Defaults iniciais ajustados para a config fornecida na primeira instalacao, sem sobrescrever perfis salvos.",
-                  "Hotkey pronta imediatamente depois do login, sem precisar redefinir a tecla ou apertar Iniciar.",
-                  "Trava de pouso impede a mira de percorrer o contorno do alvo ao alcancar o Hitmark central.",
-                  "Sincronizacao dos botoes Iniciar e Parar com a hotkey.",
-                  "Ao ligar o Color pelo botao Iniciar ou pela hotkey, a OBS Virtual Camera e iniciada automaticamente.",
-                  "Ao pausar o Color, o plugin encerra somente a camera virtual que ele proprio iniciou.",
-                  "Atualizador agora solicita administrador antes de gravar no OBS em Program Files.",
-                  "Instalacao automatica do plugin, WebView2 e interface HTML."
+                  "Coordenadas da OBS Virtual Camera agora sao mapeadas corretamente para o monitor primario.",
+                  "Centro, FOV, offsets e tracking usam escalas consistentes entre o frame e a tela.",
+                  "Lock do alvo preservado ao converter o estado anterior de volta para o frame da camera.",
+                  "Grafo DirectShow reabre automaticamente quando a camera virtual termina de iniciar.",
+                  "Nova tela de atualizacao compacta, com identidade visual Prime Aim e mensagem simplificada."
               ]
 }
