@@ -1,8 +1,8 @@
 {
-    "version":  "1.5.2-obs.1-native",
+    "version":  "1.5.3-obs.1-native",
     "mandatory":  false,
-    "downloadUrl":  "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/obs-v1.5.2/PrimeColorAim-OBS-1.5.2.zip",
-    "sha256":  "81B680EA877F1BDB61D6FBC95CC09E6EBDDF5E8D3B50A3047BAD29517292B88C",
+    "downloadUrl":  "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/obs-v1.5.3/PrimeColorAim-OBS-1.5.3.zip",
+    "sha256":  "E4EF2EC5886C81867B03068B00264F42BF2A7F3358D35A8A815B1EBC66066BD8",
     "notes":  [
                   "Motor de captura migrado de GDI/BitBlt para leitura da OBS Virtual Camera via Media Foundation.",
                   "Scanner continua usando a cor configurada em tempo real sobre o frame pre-filtrado do OBS.",
