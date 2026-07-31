@@ -1,8 +1,8 @@
 {
-    "version":  "1.6.1-obs.1-native",
+    "version":  "1.6.2-obs.1-native",
     "mandatory":  false,
-    "downloadUrl":  "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/obs-v1.6.1/PrimeColorAim-OBS-1.6.1.zip",
-    "sha256":  "3593FCD2BDB556DF1F31001510FB31C7B0C004D080C32E48779801511779A676",
+    "downloadUrl":  "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/obs-v1.6.2/PrimeColorAim-OBS-1.6.2.zip",
+    "sha256":  "8E583A93C802CF0AC79425ECC6106A98765A431B40D2BD925F8021FB486E933B",
     "notes":  [
 
               ]
