@@ -1,12 +1,13 @@
 {
-  "version": "1.4.8-obs.19-native",
-  "mandatory": false,
-  "downloadUrl": "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/obs-v1.4.8/PrimeColorAim-OBS-1.4.8.zip",
-  "sha256": "793B5091DD276091BD8C4AC9E291674CD2E650DC149FE98E46DB5C922ED29F0A",
-  "notes": [
-    "Hotkey pronta imediatamente depois do login, sem precisar redefinir a tecla ou apertar Iniciar.",
-    "Trava de pouso impede a mira de percorrer o contorno do alvo ao alcancar o Hitmark central.",
-    "Sincronizacao dos botoes Iniciar e Parar com a hotkey.",
-    "Instalacao automatica do plugin, WebView2 e interface HTML."
-  ]
+    "version":  "1.4.8-obs.20-native",
+    "mandatory":  false,
+    "downloadUrl":  "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/obs-v1.4.8/PrimeColorAim-OBS-1.4.8.zip",
+    "sha256":  "244B5129BCFD6907125AEE8C240EB24F5302AD8A05E0DF2CA2FB157A1A9152CA",
+    "notes":  [
+                  "Defaults iniciais ajustados para a config fornecida na primeira instalacao, sem sobrescrever perfis salvos.",
+                  "Hotkey pronta imediatamente depois do login, sem precisar redefinir a tecla ou apertar Iniciar.",
+                  "Trava de pouso impede a mira de percorrer o contorno do alvo ao alcancar o Hitmark central.",
+                  "Sincronizacao dos botoes Iniciar e Parar com a hotkey.",
+                  "Instalacao automatica do plugin, WebView2 e interface HTML."
+              ]
 }
