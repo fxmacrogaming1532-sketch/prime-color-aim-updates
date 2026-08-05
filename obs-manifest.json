@@ -2,7 +2,7 @@
     "version":  "1.6.9-obs.1-native",
     "mandatory":  false,
     "downloadUrl":  "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/obs-v1.6.9/PrimeColorAim-OBS-1.6.9.zip",
-    "sha256":  "DCA67799194B38D5856097347402F86B19705E74F8C1C090E063246A6DE71EED",
+    "sha256":  "A72EFCA33567994703877E35D6327CEC9CFD37E1A6501B9BBBD22550714BFB33",
     "notes":  [
                   "Movimento mais natural com ganho adaptativo por distancia e desaceleracao progressiva",
                   "Confirmacao temporal do alvo e atraso de reacao com micro-oscilacoes controladas",
