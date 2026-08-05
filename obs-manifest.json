@@ -1,11 +1,11 @@
 {
-    "version":  "1.6.6-obs.1-native",
+    "version":  "1.6.7-obs.1-native",
     "mandatory":  false,
-    "downloadUrl":  "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/obs-v1.6.6/PrimeColorAim-OBS-1.6.6.zip",
-    "sha256":  "B69D907045D52AB90AAC94AA72D7DA0E7CFB0E352D97DF4517A9F15CAC5C8454",
+    "downloadUrl":  "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/obs-v1.6.7/PrimeColorAim-OBS-1.6.7.zip",
+    "sha256":  "8C54A6630A75F0B5D57808665AB83F67D825D68A940D168DE47F08952AE9CBFD",
     "notes":  [
-                  "Correcao da deteccao automatica de atualizacoes em instalacoes antigas",
-                  "Compatibilidade com os nomes SGH e Prime Color Aim do atualizador",
-                  "Inclui a correcao do movimento Color no Blood Strike da versao 1.6.5"
+                  "Standard e plano de 1 dia restritos ao Blood Strike",
+                  "Uso do Color em outros jogos protegido pelo upgrade Pro Tools",
+                  "Upgrades comprados somem da lista e contas completas recebem o selo Ultimate animado"
               ]
 }
