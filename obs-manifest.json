@@ -1,12 +1,11 @@
 {
-    "version":  "1.6.4-obs.1-native",
+    "version":  "1.6.5-obs.1-native",
     "mandatory":  false,
-    "downloadUrl":  "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/obs-v1.6.4/PrimeColorAim-OBS-1.6.4.zip",
-    "sha256":  "335B7FC17D1B71CAF471E22B4FD0295E30359607CE84B4D5812D409D307D8773",
+    "downloadUrl":  "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/obs-v1.6.5/PrimeColorAim-OBS-1.6.5.zip",
+    "sha256":  "4C86990D777685DED39CCF8871230A285F75645B603B65566E9C0A4A6ED731A2",
     "notes":  [
-                  "Rebranding para System Graphics Helper e SGH Dashboard",
-                  "Correcao da autenticacao e das permissoes por plano",
-                  "Plano Standard de 1 dia com expiracao de 24 horas",
-                  "Despacho de entrada Win32 padronizado com metadados do sistema"
+                  "Correcao do movimento Color no Blood Strike",
+                  "Compatibilidade restaurada com o fluxo de ponteiro padrao do Windows",
+                  "Mantidos o buffer temporal e os metadados Win32 de acessibilidade"
               ]
 }
