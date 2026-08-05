@@ -1,11 +1,11 @@
 {
-    "version":  "1.6.8-obs.1-native",
+    "version":  "1.6.9-obs.1-native",
     "mandatory":  false,
-    "downloadUrl":  "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/obs-v1.6.8/PrimeColorAim-OBS-1.6.8.zip",
-    "sha256":  "4C2AC41C996D18AED462F8FB4CE30B134B90A1F577D377792388AC5EA88F4C12",
+    "downloadUrl":  "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/obs-v1.6.9/PrimeColorAim-OBS-1.6.9.zip",
+    "sha256":  "DCA67799194B38D5856097347402F86B19705E74F8C1C090E063246A6DE71EED",
     "notes":  [
-                  "Standard e plano de 1 dia restritos ao processo real do Blood Strike",
-                  "Uso do Color em outros jogos protegido pelo upgrade Pro Tools",
-                  "Upgrades comprados somem da lista e contas completas recebem o selo Ultimate animado"
+                  "Movimento mais natural com ganho adaptativo por distancia e desaceleracao progressiva",
+                  "Confirmacao temporal do alvo e atraso de reacao com micro-oscilacoes controladas",
+                  "Overshoot e correcao estabilizados com variacao de entrada e rate limiting natural"
               ]
 }
