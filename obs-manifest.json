@@ -1,11 +1,11 @@
 {
-    "version":  "1.7.1-obs.1-native",
-    "mandatory":  false,
-    "downloadUrl":  "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/obs-v1.7.1/PrimeColorAim-OBS-1.7.1.zip",
-    "sha256":  "56E883BBE768B389C7E0BB809F6C1A273F875933C083D0C81B8F3C1A7DA72637",
-    "notes":  [
-                  "Movimento mais natural com ganho adaptativo por distancia e desaceleracao progressiva",
-                  "Confirmacao temporal do alvo e atraso de reacao com micro-oscilacoes controladas",
-                  "Overshoot e correcao estabilizados com variacao de entrada e rate limiting natural"
-              ]
+    "version": "1.7.2-obs.1-native",
+    "mandatory": false,
+    "downloadUrl": "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/obs-v1.7.2/PrimeColorAim-OBS-1.7.2.zip",
+    "sha256": "CB85E0E5E2261E94B06A7EC1B33DDFD42530BD49ABFF055FEC99D0D565FEE4B1",
+    "notes": [
+        "FAST SLIDE MOV com pulsos de Shift a cada 40 ms pelo switch Ligar",
+        "Hotkey separada removida: ligar inicia e desligar interrompe imediatamente",
+        "Aplicacao e persistencia das cores salvas corrigidas"
+    ]
 }
