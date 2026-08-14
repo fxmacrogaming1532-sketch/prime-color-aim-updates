@@ -1,11 +1,11 @@
 {
-    "version":  "1.7.4-obs.1-native",
+    "version":  "1.7.5-obs.1-native",
     "mandatory":  false,
-    "downloadUrl":  "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/obs-v1.7.4/PrimeColorAim-OBS-1.7.4.zip",
-    "sha256":  "040C60989DBEA7003C0B8A8649C3D596FF6F84E42565A4FFFBCD05F5E26C979D",
+    "downloadUrl":  "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/obs-v1.7.5/PrimeColorAim-OBS-1.7.5.zip",
+    "sha256":  "7DC56EDF02719A340216152010D2999B24DADF08401C3F1F22D17D2F886FAFF5",
     "notes":  [
-                  "FAST SLIDE MOV liberado por Ultimate direto ou pelo conjunto Standard + IA Aimbot + Pro Tools",
-                  "FAST SLIDE MOV controlado diretamente pelo switch Ligar com pulsos de Shift a cada 40 ms",
-                  "Aplicacao e persistencia das cores salvas corrigidas"
+                  "Movimento Natural agora se adapta automaticamente ÃƒÂ  forÃƒÂ§a configurada",
+                  "Curvas, modo de alvo e filtros ativos modulam a variaÃƒÂ§ÃƒÂ£o de forma estÃƒÂ¡vel",
+                  "Perfil adaptativo disponÃƒÂ­vel na aba AIM com controle de intensidade"
               ]
 }
