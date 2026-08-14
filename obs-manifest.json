@@ -1,12 +1,12 @@
 {
-  "version": "1.7.7-obs.1-native",
+  "version": "1.7.8-obs.1-native",
   "mandatory": false,
-  "downloadUrl": "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/obs-v1.7.7/PrimeColorAim-OBS-1.7.7.zip",
-  "sha256": "88B63368A51DD7D907D073AE56DCE0A68E612AE1F1D4C8E6E1F83D2EF67D6D36",
+  "downloadUrl": "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/obs-v1.7.8/PrimeColorAim-OBS-1.7.8.zip",
+  "sha256": "C1091C467604098100DADCEE8D796F7E2DDDF8AD478B415EBA341D558E173B94",
   "notes": [
-    "Color center hold now ignores small detector shimmer after arrival",
-    "Changing pull height or hipfire height immediately rebuilds the Color reference",
-    "Space now confirms and immediately saves the color captured under the pointer",
+    "Color now reconciles every 165 Hz output packet before the next capture association",
+    "A stationary Color target keeps one stable visual anchor instead of alternating corrections",
+    "Pull-height, hipfire height and Space color capture fixes remain active",
     "The 165 Hz smooth Color output and bounded natural movement remain active"
   ]
 }
