@@ -1,11 +1,12 @@
 {
-  "version": "1.7.6-obs.1-native",
+  "version": "1.7.7-obs.1-native",
   "mandatory": false,
-  "downloadUrl": "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/obs-v1.7.6/PrimeColorAim-OBS-1.7.6.zip",
-  "sha256": "394CEB2206DDB0FFA9DEA237DFE40824D2C8073CD109ED9435BD3E12812BADFA",
+  "downloadUrl": "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/obs-v1.7.7/PrimeColorAim-OBS-1.7.7.zip",
+  "sha256": "88B63368A51DD7D907D073AE56DCE0A68E612AE1F1D4C8E6E1F83D2EF67D6D36",
   "notes": [
-    "Color movement output now runs at a fixed 165 Hz cadence",
-    "Capture and color scans no longer batch movement into visible jumps",
-    "Natural movement remains active with bounded high-refresh corrections"
+    "Color center hold now ignores small detector shimmer after arrival",
+    "Changing pull height or hipfire height immediately rebuilds the Color reference",
+    "Space now confirms and immediately saves the color captured under the pointer",
+    "The 165 Hz smooth Color output and bounded natural movement remain active"
   ]
 }
