@@ -1,11 +1,11 @@
 {
-    "version": "1.7.3-obs.1-native",
-    "mandatory": false,
-    "downloadUrl": "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/obs-v1.7.3/PrimeColorAim-OBS-1.7.3.zip",
-    "sha256": "96B8687B5D9CF0B2137C3273AC8606CEF6353DC13F437166161E42CBB7A3457D",
-    "notes": [
-        "FAST SLIDE MOV liberado por Ultimate direto ou pelo conjunto Standard + IA Aimbot + Pro Tools",
-        "FAST SLIDE MOV controlado diretamente pelo switch Ligar com pulsos de Shift a cada 40 ms",
-        "Aplicacao e persistencia das cores salvas corrigidas"
-    ]
+    "version":  "1.7.4-obs.1-native",
+    "mandatory":  false,
+    "downloadUrl":  "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/obs-v1.7.4/PrimeColorAim-OBS-1.7.4.zip",
+    "sha256":  "040C60989DBEA7003C0B8A8649C3D596FF6F84E42565A4FFFBCD05F5E26C979D",
+    "notes":  [
+                  "FAST SLIDE MOV liberado por Ultimate direto ou pelo conjunto Standard + IA Aimbot + Pro Tools",
+                  "FAST SLIDE MOV controlado diretamente pelo switch Ligar com pulsos de Shift a cada 40 ms",
+                  "Aplicacao e persistencia das cores salvas corrigidas"
+              ]
 }
