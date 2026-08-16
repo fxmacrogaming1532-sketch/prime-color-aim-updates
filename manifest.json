@@ -1,14 +1,39 @@
 {
-    "version":  "1.4.8",
-    "mandatory":  true,
-    "downloadUrl":  "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/v1.4.8/PrimeColorAim-1.4.8.zip",
-    "sha256":  "3BA709969EE619F3ADB80B47155F567BADDF89145A6443EC01E688C0312251BD",
-    "executableName":  "Prime Color Aim.exe",
-    "requiresNetReactor":  false,
-    "notes":  [
-                  "Migracao obrigatoria do app AHK para o painel integrado ao OBS.",
-                  "Instalacao automatica do OBS Studio oficial quando necessario.",
-                  "Prime Color Aim 1.4.8 instalado dentro do processo do OBS.",
-                  "Arquivos tecnicos ocultos e atalho Prime Color Aim - OBS criado."
-              ]
+    
+  "version": "1.8.1",
+    
+  "mandatory": false,
+    
+  "downloadUrl": "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/obs-v1.8.1/PrimeColorAim-OBS-1.8.1.zip",
+    
+  "sha256": "A04BE69A8C2C27DDE28860BAFAA0C1CF83CD50DE7FB40402746E3850C590596A",
+    
+  "executableName": "Prime Color Aim Updater.exe",
+    
+  "requiresNetReactor": false,
+    
+  "notes": [
+      
+    "Atualizacao PRIME AIM OBS 1.8.1.",
+      
+    "IA Aimbot, IA Mark/Ignorar triangulos e FastSlide removidos.",
+      
+    "Correcao de latencia do Color preservada com saida fluida a 165 Hz.",
+      
+    "Interface e tutoriais atualizados."
+      
+  ]
+    
 }
+
+
+
+
+
+
+
+
+
+
+
+
