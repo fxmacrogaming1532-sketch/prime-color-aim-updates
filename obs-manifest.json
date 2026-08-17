@@ -1,13 +1,36 @@
 {
-    "version":  "1.8.0-obs.1-native",
-    "mandatory":  false,
-    "downloadUrl":  "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/obs-v1.8.0/PrimeColorAim-OBS-1.8.0.zip",
-    "sha256":  "94E53BE5295AD463121143A023458780E751FB8075CB31FBF46A7AB5D5E48F6C",
-    "notes":  [
-                  "Color now reconciles every 165 Hz output packet before the next capture association",
-                  "A stationary Color target keeps one stable visual anchor instead of alternating corrections",
-                  "Pull-height, hipfire height and Space color capture fixes remain active",
-                  "The 165 Hz smooth Color output and bounded natural movement remain active",
-                  "OBS locale resource is now included with the native payload"
-              ]
+    
+    "version": "1.8.2-obs.1-native",
+    
+    "mandatory": false,
+    
+    "downloadUrl": "https://github.com/fxmacrogaming1532-sketch/prime-color-aim-updates/releases/download/obs-v1.8.2/PrimeColorAim-OBS-1.8.2.zip",
+    
+    "sha256": "282A250AA4C4C9899EC2F6DB4A79BDB76D76491ADC3C4D264871034B00E0BE07",
+    
+    "notes": [
+        
+        "Login KeyAuth corrigido: timeout limitado, watchdog libera tela se servico nao responder",
+        
+        "Painel renomeado para PRIME AIM",
+        
+        "Modulos IA Mark, FastSlide e IA Aimbot removidos completamente",
+        
+        "Tutoriais corrigidos com links atualizados",
+        
+        "Versao 1.8.2"
+        
+    ]
+    
 }
+
+
+
+
+
+
+
+
+
+
+
